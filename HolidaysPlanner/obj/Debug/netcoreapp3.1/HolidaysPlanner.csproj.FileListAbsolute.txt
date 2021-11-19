@@ -1,0 +1,13 @@
+C:\Users\mmur\source\repos\HolidaysPlanner\HolidaysPlanner\bin\Debug\netcoreapp3.1\HolidaysPlanner.exe
+C:\Users\mmur\source\repos\HolidaysPlanner\HolidaysPlanner\bin\Debug\netcoreapp3.1\HolidaysPlanner.deps.json
+C:\Users\mmur\source\repos\HolidaysPlanner\HolidaysPlanner\bin\Debug\netcoreapp3.1\HolidaysPlanner.runtimeconfig.json
+C:\Users\mmur\source\repos\HolidaysPlanner\HolidaysPlanner\bin\Debug\netcoreapp3.1\HolidaysPlanner.runtimeconfig.dev.json
+C:\Users\mmur\source\repos\HolidaysPlanner\HolidaysPlanner\bin\Debug\netcoreapp3.1\HolidaysPlanner.dll
+C:\Users\mmur\source\repos\HolidaysPlanner\HolidaysPlanner\bin\Debug\netcoreapp3.1\HolidaysPlanner.pdb
+C:\Users\mmur\source\repos\HolidaysPlanner\HolidaysPlanner\obj\Debug\netcoreapp3.1\HolidaysPlanner.csproj.AssemblyReference.cache
+C:\Users\mmur\source\repos\HolidaysPlanner\HolidaysPlanner\obj\Debug\netcoreapp3.1\HolidaysPlanner.AssemblyInfoInputs.cache
+C:\Users\mmur\source\repos\HolidaysPlanner\HolidaysPlanner\obj\Debug\netcoreapp3.1\HolidaysPlanner.AssemblyInfo.cs
+C:\Users\mmur\source\repos\HolidaysPlanner\HolidaysPlanner\obj\Debug\netcoreapp3.1\HolidaysPlanner.csproj.CoreCompileInputs.cache
+C:\Users\mmur\source\repos\HolidaysPlanner\HolidaysPlanner\obj\Debug\netcoreapp3.1\HolidaysPlanner.dll
+C:\Users\mmur\source\repos\HolidaysPlanner\HolidaysPlanner\obj\Debug\netcoreapp3.1\HolidaysPlanner.pdb
+C:\Users\mmur\source\repos\HolidaysPlanner\HolidaysPlanner\obj\Debug\netcoreapp3.1\HolidaysPlanner.genruntimeconfig.cache
